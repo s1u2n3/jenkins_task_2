@@ -11,3 +11,5 @@ echo "Build Successful!"
 echo "===================================="
 
 echo "version2"
+echo "version 3 commiting for auto build and  email notification"
+
