@@ -9,3 +9,5 @@ echo "Files:"
 ls -la
 echo "Build Successful!"
 echo "===================================="
+
+echo "version2"
